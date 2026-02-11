@@ -1,0 +1,16 @@
+{
+	"required_api_version": "^2.0.0",
+	"name": "Haici Dict",
+	"description": "Translator using Haici Dictionary",
+	"developer_name": "Qi",
+	"icon": "images/icon.png",
+	"preferences": [
+	  {
+		"id": "keyword",
+		"type": "keyword",
+		"name": "Haici Dict Keyword",
+		"description": "Keyword to trigger the Haici Dictionary",
+		"default_value": "hc"
+	  }
+	]
+}
